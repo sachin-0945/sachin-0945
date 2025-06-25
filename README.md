@@ -27,7 +27,7 @@
 - 📋 Tools: Git, GitHub, Jupyter, VS Code, Google Colab
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 ---
-
+-->
 ## 📫 Let's Connect!
 
 - 📧 Email: sksachin346@gmail.com
