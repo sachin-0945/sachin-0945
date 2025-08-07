@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Sachin Kumar</h1>
 
 <p align="center">
-  🎓 Final-Year CSE (Data Science) Student | 📊 Aspiring Data Scientist | 👨‍💻 Web Developer | 🤖 AI/ML Enthusiast
+  🎓 CSE (Data Science) Graduate – 2025 | 📊 Aspiring Data Scientist | 🤖 AI/ML Enthusiast
 </p>
 
 ---
 
 ## 💡 About Me
 
-- 🎓 Final year B.Tech student, CSE (Data Science)
+- 🎓 CSE (Data Science) Graduate - 2025
 - 💻 Passionate about Data Science, Python, ML, and AI
 - 🔍 Currently exploring Deep Learning & Real-Time Computer Vision Projects
 - 📂 Built projects like Vehicle Number Plate Detection, Sign Language to Speech, Titanic Survival Prediction
